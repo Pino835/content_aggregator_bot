@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Ejemplo Canal YouTube",
+    "categoria": "tech",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw"
+  },
+  {
+    "nombre": "r/gaming",
+    "categoria": "gaming",
+    "url": "https://www.reddit.com/r/gaming/.rss"
+  },
+  {
+    "nombre": "r/memes",
+    "categoria": "memes",
+    "url": "https://www.reddit.com/r/memes/.rss"
+  }
+]
